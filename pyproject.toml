@@ -1,0 +1,31 @@
+[build-system]
+requires = ["uv_build >= 0.8.20, <0.9.0"]
+build-backend = "uv_build"
+
+[project]
+name = "acpackage"
+description = "A package for performing basic addition"
+readme = "README.md"
+version = "0.0.1"
+requires-python = ">=3.10"
+license = "MIT"
+keywords = []
+authors = [
+  { name = "Inessa Pawson", email = "inessa@albuscode.org" },
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://pypi.org/project/acpackage/"
+Documentation = ""
+Issues = "https://github.com/albuscode/acpackage/issues"
+Source = "https://github.com/albuscode/acpackage"
+]
+
+
