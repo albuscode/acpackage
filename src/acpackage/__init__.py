@@ -1,2 +1,2 @@
-from .example import add
-__all__ = ["add"]
+from .example import add_num
+__all__ = ["add_num"]
