@@ -8,7 +8,7 @@ description = "A package for performing basic addition"
 readme = "README.md"
 version = "0.0.1"
 requires-python = ">=3.10"
-license = "MIT"
+license = { file = "LICENSE" }
 keywords = []
 authors = [
   { name = "Inessa Pawson", email = "inessa@albuscode.org" },
