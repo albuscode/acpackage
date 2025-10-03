@@ -23,7 +23,7 @@ dependencies = []
 
 [project.urls]
 Homepage = "https://github.com/albuscode/acpackage"
-Documentation = ""
+Documentation = "https://github.com/albuscode/acpackage/blob/main/docs/README.md"
 Issues = "https://github.com/albuscode/acpackage/issues"
 Source = "https://github.com/albuscode/acpackage"
 
